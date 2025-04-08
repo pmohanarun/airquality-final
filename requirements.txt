@@ -1,0 +1,10 @@
+Flask==1.1.2
+pandas==1.4.2
+numpy==1.21.5
+scikit-learn==0.24.1
+haversine==2.3.1
+tensorflow==2.10.0
+Jinja2==2.11.3
+gunicorn
+openpyxl
+plotly==5.18.0
